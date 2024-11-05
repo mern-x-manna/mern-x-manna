@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Real-Time Applications Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/mern-x-manna?label=Follow&style=social" alt="GitHub Followers">
   <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=flat&logo=React&logoColor=white" alt="MERN Stack">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" alt="Node.js">
