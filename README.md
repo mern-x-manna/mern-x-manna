@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manna Hosssein 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 <h3 align="center">MERN Stack Developer | Real-Time Applications Enthusiast</h3>
 
 <p align="center">
@@ -42,8 +42,8 @@
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="https://github.com/mern-x-manna" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/manna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
